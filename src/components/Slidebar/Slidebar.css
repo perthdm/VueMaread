@@ -1,0 +1,38 @@
+.uk-offcanvas {
+    z-index: 1040;
+}
+
+.slide .uk-offcanvas-bar .uk-nav-default>li>a {
+    color: white !important;
+}
+
+.uk-nav .uk-nav-header {
+    color: #fdd8c4 !important;
+}
+
+.slide-img-profile {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%
+}
+
+.profile {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.profile-title {
+    font-size: 14px;
+}
+
+.profile-email {
+    font-size: 12px;
+}
+
+.profile-connent {
+    padding: 15px;
+}
+
+.uk-nav>li {
+    padding: 5px 0 !important;
+}

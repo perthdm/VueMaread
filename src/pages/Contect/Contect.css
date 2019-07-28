@@ -1,0 +1,26 @@
+.ToppicBar {
+    color: #6E0000;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.ToppicBar>p {
+    font-size: 14px;
+    color: #969696;
+    font-weight: 300;
+}
+
+.select-none {
+    font-size: 14px;
+    border: 0;
+    color: #969696;
+    height: auto !important;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}

@@ -1,0 +1,47 @@
+.img-profile {
+    border: 5px solid #ffffff;
+    background-size: cover;
+    width: 150px;
+    height: 150px;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 0 2px #9d2e2d;
+    border-radius: 100%;
+}
+
+.icon-profile {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+}
+
+.uk-position-profile {
+    max-width: calc(100% - (15px * 2));
+    margin: 8px;
+}
+
+.sc-ion-picker-ios-h {
+    position: fixed;
+}
+
+.padding-left-8 {
+    padding-left: 8px;
+}
+
+.bar-button-right {
+    font-size: 14px;
+    padding: 0px 15px 0px 0px;
+    font-family: 'Kanit' !important;
+    font-style: normal;
+}
+
+ion-label,
+ion-input,
+ion-textarea,
+button {
+    font-family: 'Kanit' !important;
+    font-style: normal;
+    font-weight: 300 !important;
+}

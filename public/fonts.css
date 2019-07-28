@@ -1,0 +1,321 @@
+/* taviraj-300 - latin_thai */
+
+@font-face {
+    font-family: 'Taviraj';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/taviraj-v4-latin_thai-300.eot');
+    /* IE9 Compat Modes */
+    src: local('Taviraj Light'), local('Taviraj-Light'), url('./fonts/taviraj-v4-latin_thai-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/taviraj-v4-latin_thai-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/taviraj-v4-latin_thai-300.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/taviraj-v4-latin_thai-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/taviraj-v4-latin_thai-300.svg#Taviraj') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* taviraj-300italic - latin_thai */
+
+@font-face {
+    font-family: 'Taviraj';
+    font-style: italic;
+    font-weight: 300;
+    src: url('./fonts/taviraj-v4-latin_thai-300italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Taviraj Light Italic'), local('Taviraj-LightItalic'), url('./fonts/taviraj-v4-latin_thai-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/taviraj-v4-latin_thai-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/taviraj-v4-latin_thai-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/taviraj-v4-latin_thai-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/taviraj-v4-latin_thai-300italic.svg#Taviraj') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* taviraj-regular - latin_thai */
+
+@font-face {
+    font-family: 'Taviraj';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/taviraj-v4-latin_thai-regular.eot');
+    /* IE9 Compat Modes */
+    src: local('Taviraj Regular'), local('Taviraj-Regular'), url('./fonts/taviraj-v4-latin_thai-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/taviraj-v4-latin_thai-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/taviraj-v4-latin_thai-regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/taviraj-v4-latin_thai-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/taviraj-v4-latin_thai-regular.svg#Taviraj') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kanit-300 - latin_thai */
+
+@font-face {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/kanit-v4-latin_thai-300.eot');
+    /* IE9 Compat Modes */
+    src: local('Kanit Light'), local('Kanit-Light'), url('./fonts/kanit-v4-latin_thai-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kanit-v4-latin_thai-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-300.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kanit-v4-latin_thai-300.svg#Kanit') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kanit-300italic - latin_thai */
+
+@font-face {
+    font-family: 'Kanit';
+    font-style: italic;
+    font-weight: 300;
+    src: url('./fonts/kanit-v4-latin_thai-300italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Kanit Light Italic'), local('Kanit-LightItalic'), url('./fonts/kanit-v4-latin_thai-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kanit-v4-latin_thai-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kanit-v4-latin_thai-300italic.svg#Kanit') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kanit-italic - latin_thai */
+
+@font-face {
+    font-family: 'Kanit';
+    font-style: italic;
+    font-weight: 400;
+    src: url('./fonts/kanit-v4-latin_thai-italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Kanit Italic'), local('Kanit-Italic'), url('./fonts/kanit-v4-latin_thai-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kanit-v4-latin_thai-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kanit-v4-latin_thai-italic.svg#Kanit') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kanit-regular - latin_thai */
+
+@font-face {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/kanit-v4-latin_thai-regular.eot');
+    /* IE9 Compat Modes */
+    src: local('Kanit Regular'), local('Kanit-Regular'), url('./fonts/kanit-v4-latin_thai-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kanit-v4-latin_thai-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kanit-v4-latin_thai-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kanit-v4-latin_thai-regular.svg#Kanit') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* k2d-300 - latin_thai */
+
+@font-face {
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/k2d-v2-latin_thai-300.eot');
+    /* IE9 Compat Modes */
+    src: local('K2D Light'), local('K2D-Light'), url('./fonts/k2d-v2-latin_thai-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/k2d-v2-latin_thai-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-300.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/k2d-v2-latin_thai-300.svg#K2D') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* k2d-regular - latin_thai */
+
+@font-face {
+    font-family: 'K2D';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/k2d-v2-latin_thai-regular.eot');
+    /* IE9 Compat Modes */
+    src: local('K2D Regular'), local('K2D-Regular'), url('./fonts/k2d-v2-latin_thai-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/k2d-v2-latin_thai-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/k2d-v2-latin_thai-regular.svg#K2D') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* k2d-300italic - latin_thai */
+
+@font-face {
+    font-family: 'K2D';
+    font-style: italic;
+    font-weight: 300;
+    src: url('./fonts/k2d-v2-latin_thai-300italic.eot');
+    /* IE9 Compat Modes */
+    src: local('K2D Light Italic'), local('K2D-LightItalic'), url('./fonts/k2d-v2-latin_thai-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/k2d-v2-latin_thai-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/k2d-v2-latin_thai-300italic.svg#K2D') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* k2d-italic - latin_thai */
+
+@font-face {
+    font-family: 'K2D';
+    font-style: italic;
+    font-weight: 400;
+    src: url('./fonts/k2d-v2-latin_thai-italic.eot');
+    /* IE9 Compat Modes */
+    src: local('K2D Italic'), local('K2D-Italic'), url('./fonts/k2d-v2-latin_thai-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/k2d-v2-latin_thai-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/k2d-v2-latin_thai-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/k2d-v2-latin_thai-italic.svg#K2D') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* chakra-petch-300 - latin_thai */
+
+@font-face {
+    font-family: 'Chakra Petch';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/chakra-petch-v2-latin_thai-300.eot');
+    /* IE9 Compat Modes */
+    src: local('Chakra Petch Light'), local('ChakraPetch-Light'), url('./fonts/chakra-petch-v2-latin_thai-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/chakra-petch-v2-latin_thai-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-300.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/chakra-petch-v2-latin_thai-300.svg#ChakraPetch') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* chakra-petch-italic - latin_thai */
+
+@font-face {
+    font-family: 'Chakra Petch';
+    font-style: italic;
+    font-weight: 400;
+    src: url('./fonts/chakra-petch-v2-latin_thai-italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Chakra Petch Italic'), local('ChakraPetch-Italic'), url('./fonts/chakra-petch-v2-latin_thai-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/chakra-petch-v2-latin_thai-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/chakra-petch-v2-latin_thai-italic.svg#ChakraPetch') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* chakra-petch-300italic - latin_thai */
+
+@font-face {
+    font-family: 'Chakra Petch';
+    font-style: italic;
+    font-weight: 300;
+    src: url('./fonts/chakra-petch-v2-latin_thai-300italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Chakra Petch Light Italic'), local('ChakraPetch-LightItalic'), url('./fonts/chakra-petch-v2-latin_thai-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/chakra-petch-v2-latin_thai-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/chakra-petch-v2-latin_thai-300italic.svg#ChakraPetch') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* chakra-petch-regular - latin_thai */
+
+@font-face {
+    font-family: 'Chakra Petch';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/chakra-petch-v2-latin_thai-regular.eot');
+    /* IE9 Compat Modes */
+    src: local('Chakra Petch Regular'), local('ChakraPetch-Regular'), url('./fonts/chakra-petch-v2-latin_thai-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/chakra-petch-v2-latin_thai-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/chakra-petch-v2-latin_thai-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/chakra-petch-v2-latin_thai-regular.svg#ChakraPetch') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kodchasan-300 - latin_thai */
+
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: normal;
+    font-weight: 300;
+    src: url('./fonts/kodchasan-v2-latin_thai-300.eot');
+    /* IE9 Compat Modes */
+    src: local('Kodchasan Light'), local('Kodchasan-Light'), url('./fonts/kodchasan-v2-latin_thai-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kodchasan-v2-latin_thai-300.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-300.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-300.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kodchasan-v2-latin_thai-300.svg#Kodchasan') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kodchasan-300italic - latin_thai */
+
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: italic;
+    font-weight: 300;
+    src: url('./fonts/kodchasan-v2-latin_thai-300italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Kodchasan Light Italic'), local('Kodchasan-LightItalic'), url('./fonts/kodchasan-v2-latin_thai-300italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kodchasan-v2-latin_thai-300italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-300italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-300italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kodchasan-v2-latin_thai-300italic.svg#Kodchasan') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kodchasan-regular - latin_thai */
+
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/kodchasan-v2-latin_thai-regular.eot');
+    /* IE9 Compat Modes */
+    src: local('Kodchasan Regular'), local('Kodchasan-Regular'), url('./fonts/kodchasan-v2-latin_thai-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kodchasan-v2-latin_thai-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-regular.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kodchasan-v2-latin_thai-regular.svg#Kodchasan') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* kodchasan-italic - latin_thai */
+
+@font-face {
+    font-family: 'Kodchasan';
+    font-style: italic;
+    font-weight: 400;
+    src: url('./fonts/kodchasan-v2-latin_thai-italic.eot');
+    /* IE9 Compat Modes */
+    src: local('Kodchasan Italic'), local('Kodchasan-Italic'), url('./fonts/kodchasan-v2-latin_thai-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('./fonts/kodchasan-v2-latin_thai-italic.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-italic.woff') format('woff'), /* Modern Browsers */
+    url('./fonts/kodchasan-v2-latin_thai-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/kodchasan-v2-latin_thai-italic.svg#Kodchasan') format('svg');
+    /* Legacy iOS */
+}

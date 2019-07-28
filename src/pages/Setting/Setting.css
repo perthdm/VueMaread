@@ -1,0 +1,26 @@
+.lable-divider {
+    font-size: 12px;
+    margin-top: 0px;
+    color: #5f5959;
+}
+
+ion-label {
+    font-size: 14px !important
+}
+
+.native-input.sc-ion-input-ios,
+.native-input.sc-ion-input-md {
+    font-size: 14px !important;
+    color: #5f5959;
+}
+
+.native-textarea.sc-ion-textarea-ios,
+.native-textarea.sc-ion-textarea-md {
+    font-size: 14px !important;
+    color: #5f5959;
+}
+
+ion-datetime {
+    font-size: 14px !important;
+    color: #5f5959 !important;
+}

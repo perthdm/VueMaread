@@ -1,0 +1,8 @@
+.frame{
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    height: 90%;
+    margin-bottom: 56px;
+}

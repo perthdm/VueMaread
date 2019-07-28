@@ -1,0 +1,5 @@
+.uk-navbar-toggle.uk-open,
+.uk-navbar-toggle:focus,
+.uk-navbar-toggle:hover {
+    color: white;
+}

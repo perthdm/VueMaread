@@ -1,0 +1,28 @@
+ion-thumbnail {
+    overflow: hidden;
+    height: 84px;
+    width: 56px;
+}
+
+.img-list {
+    height: 84px;
+    width: 56px;
+}
+
+.title-list {
+    font-size: 14px;
+}
+
+.subtitle-list {
+    font-size: 12px;
+    color: #9d2e2d;
+}
+
+.time-list {
+    font-size: 10px;
+    color: darkgrey;
+}
+
+.icon-list {
+    width: 13px;
+}

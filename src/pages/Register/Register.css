@@ -1,0 +1,27 @@
+.imgLogo {
+    width: 80%;
+}
+
+.picker-opt.picker-opt-selected,
+.picker-prefix,
+.picker-suffix {
+    color: #9d2e2e;
+}
+
+.picker-button.sc-ion-picker-md,
+.picker-button.activated.sc-ion-picker-md {
+    color: #9d2e2e;
+}
+
+.uk-radio:checked,
+.uk-checkbox:checked,
+.uk-checkbox:indeterminate {
+    color: #9d2e2e !important;
+}
+
+.uk-radio:checked,
+.uk-checkbox:checked,
+.uk-checkbox:indeterminate {
+    background-color: #9d2e2e !important;
+    border-color: transparent;
+}

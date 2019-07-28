@@ -1,0 +1,25 @@
+.uk-button-red {
+    background-color: #9d2e2d;
+    color: #fff;
+    border: 1px solid transparent;
+    box-sizing: border-box;
+    width: 36px;
+    height: 36px;
+    border-radius: 500px;
+    vertical-align: middle;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: .1s ease-in-out;
+    transition-property: color, background-color;
+}
+
+button:focus {
+    outline: none;
+    outline: none;
+}
+
+.w-100 {
+    width: 100px !important;
+    min-width: 100px;
+}

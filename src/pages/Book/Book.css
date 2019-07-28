@@ -1,0 +1,15 @@
+.svg-icon {
+    color: #333333;
+    height: 14px;
+}
+
+.bt-none {
+    border: 0;
+    background: transparent;
+    color: #333333;
+    padding: 0;
+}
+
+.padding-top-30 {
+    padding-top: 30px;
+}

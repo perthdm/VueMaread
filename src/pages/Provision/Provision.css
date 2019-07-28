@@ -1,0 +1,18 @@
+.provision-header {
+    padding-top: 30px;
+    font-size: 16px;
+    color: #840104;
+    font-weight: 400 !important;
+}
+
+.provision-indent {
+    text-indent: 50px;
+    font-family: 'Kanit';
+    font-weight: 300;
+}
+
+.provision-bold {
+    font-family: 'Kanit';
+    color: #840104;
+    font-weight: 500 !important;
+}

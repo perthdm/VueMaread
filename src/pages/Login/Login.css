@@ -1,0 +1,63 @@
+* {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 300;
+}
+
+body {
+    position: unset !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+}
+
+.bt-rad {
+    background-color: #9d2e2e !important;
+    color: #fff !important;
+    border: 1px solid transparent;
+}
+
+.bt-facebook {
+    background-color: #4267b2;
+    color: #fff;
+    border: 1px solid transparent;
+}
+
+.bt-google {
+    background-color: #ea4235;
+    color: #fff;
+    border: 1px solid transparent;
+}
+
+.login-content {
+    min-height: -webkit-fill-available;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(110deg, #ffffff 60%, #ac646414 60%);
+    padding: 30px 15px;
+}
+
+.padding-t30 {
+    padding-top: 30px;
+}
+
+.uk-tab>*>a {
+    border-bottom: 2px solid transparent;
+    padding: 0;
+}
+
+.uk-tab>*>a {
+    font-size: 14px;
+}
+
+.uk-tab>* {
+    padding-left: 20px;
+    position: relative;
+    line-height: 33px;
+}
+
+.uk-tab>.uk-active>a {
+    color: #222;
+    border-color: #9d2e2e;
+    line-height: 33px;
+}
