@@ -21,7 +21,7 @@
     "cordova-serve-osx": "cross-env CORDOVA_PLATFORM=osx vue-cli-service cordova-serve-osx"
   },
   "dependencies": {
-    "@angular/core": "^8.0.2",
+    "@angular/core": "^11.0.5",
     "@fortawesome/fontawesome-free": "^5.9.0",
     "@ionic/core": "^4.5.0",
     "@ionic/vue": "0.0.4",
